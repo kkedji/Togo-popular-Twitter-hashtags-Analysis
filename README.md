@@ -19,7 +19,7 @@ Open the Jupyter Notebook file twitter_data_analysis.ipynb and run the cells to 
 The output of this notebook is a CSV file named tweets.csv that contains the cleaned and processed data.
 Open the Microsoft SQL Server Management Studio and create a new database named Tweets. Then, import the CSV file into a table named TgTweets using the Import Wizard.
 Open the SQL file twitter_data_queries.sql and run the queries to perform an exploratory analysis of the data. You can also modify or add your own queries as per your needs.
-Open the Power BI Desktop file twitter_data_Analysis.pbix and explore the dashboards and reports that visualize the findings and recommendations of the data analysis. You can also create your own visuals or modify the existing ones as per your preferences.
+Open the Power BI Desktop file Twitter_Data_Analysis_.pbix and explore the dashboards and reports that visualize the findings and recommendations of the data analysis. You can also create your own visuals or modify the existing ones as per your preferences.
 
 Thanks
 Sename
